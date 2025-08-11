@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshanhaijing_card_game=self.webpackChunkshanhaijing_card_game||[]).push([[850],{},a=>{a.O(0,[502,955,622],()=>{return e=60622,a(a.s=e);var e});a.O()}]);
